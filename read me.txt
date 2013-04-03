@@ -1,5 +1,3 @@
-	다운로드 해야할 목록 
+Download List
 
-	http://git-scm.com/downloads  : 플랫폼에 맞게 다운로드
-
-	Push Test
+http://git-scm.com/downloads
